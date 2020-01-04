@@ -1,0 +1,20 @@
+﻿  ApiNeuron.cpp
+F:\repos\Neuron\Neuron\ApiNeuron.cpp(4,20): warning C4018:  <: несоответствие типов со знаком и без знака
+F:\repos\Neuron\Neuron\ApiNeuron.cpp(9,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  Lay.cpp
+F:\repos\Neuron\Neuron\ApiNeuron.cpp(22,20): warning C4018:  <: несоответствие типов со знаком и без знака
+F:\repos\Neuron\Neuron\Lay.cpp(11,43): warning C4244:  =: преобразование "double" в "_Ty", возможна потеря данных
+F:\repos\Neuron\Neuron\Lay.cpp(11,43): warning C4244:         with
+F:\repos\Neuron\Neuron\Lay.cpp(11,43): warning C4244:         [
+F:\repos\Neuron\Neuron\Lay.cpp(11,43): warning C4244:             _Ty=float
+F:\repos\Neuron\Neuron\Lay.cpp(11,43): warning C4244:         ]
+F:\repos\Neuron\Neuron\Lay.cpp(16,13): warning C4244:  return: преобразование "double" в "float", возможна потеря данных
+F:\repos\Neuron\Neuron\Lay.cpp(22,20): warning C4018:  <: несоответствие типов со знаком и без знака
+F:\repos\Neuron\Neuron\Lay.cpp(23,21): warning C4018:  <: несоответствие типов со знаком и без знака
+F:\repos\Neuron\Neuron\Lay.cpp(41,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  Neuron.cpp
+F:\repos\Neuron\Neuron\Lay.cpp(45,21): warning C4018:  <: несоответствие типов со знаком и без знака
+F:\repos\Neuron\Neuron\Neuron.cpp(27,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  Создание кода...
+F:\repos\Neuron\Neuron\Neuron.cpp(33,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  Neuron.vcxproj -> F:\repos\Neuron\Debug\Neuron.exe
